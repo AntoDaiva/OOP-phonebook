@@ -11,3 +11,6 @@ C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.c
 C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.exe
 C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.pdb
 C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.MainNav.resources
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.AddForm.resources
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.DeleteConfirm.resources
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.EditForm.resources
