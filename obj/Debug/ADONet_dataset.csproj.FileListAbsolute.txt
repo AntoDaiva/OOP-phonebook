@@ -1,0 +1,13 @@
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\bin\Debug\UGM_database.mdf
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\bin\Debug\UGM_database_log.ldf
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\bin\Debug\ADONet_dataset.exe.config
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\bin\Debug\ADONet_dataset.exe
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\bin\Debug\ADONet_dataset.pdb
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.csproj.AssemblyReference.cache
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.Properties.Resources.resources
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.csproj.GenerateResource.cache
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.csproj.CoreCompileInputs.cache
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.exe
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.pdb
+C:\Users\anton\things\kuliah\sem 3\OOP\ADONet_dataset\obj\Debug\ADONet_dataset.MainNav.resources
