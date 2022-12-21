@@ -16,6 +16,7 @@ namespace ADONet_dataset
         public MainNav()
         {
             InitializeComponent();
+            populate();
         }
 
         private void textBox1_TextChanged(object sender, EventArgs e)
@@ -54,6 +55,8 @@ namespace ADONet_dataset
             phonebookDGV.DataSource = ds.Tables[0];
             Con.Close();
         }
+        
+        
         private void ShowAllBtn_Click(object sender, EventArgs e)
         {
             populate();
@@ -139,9 +142,20 @@ namespace ADONet_dataset
             }
         }
 
+    private void Search()
+        {
+            Con.Open();
+            string query = "select * from phonebook where Nama like '%" + SearchBox.Text + "%'";
+            SqlDataAdapter adapter = new SqlDataAdapter(query, Con);
+            SqlCommandBuilder builder = new SqlCommandBuilder(adapter);
+            var ds = new DataSet();
+            adapter.Fill(ds);
+            phonebookDGV.DataSource = ds.Tables[0];
+            Con.Close();
+        }
         private void SearchBtn_Click(object sender, EventArgs e)
         {
-            MessageBox.Show(SearchBox.Text);
+            Search();
         }
     }
 }
